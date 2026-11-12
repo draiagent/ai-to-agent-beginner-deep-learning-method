@@ -51,5 +51,4 @@ Agent 一次問一題，等待作答，再提供回饋。沒有作答記為未�
 保留所有權利，見 [LICENSE](LICENSE)；目前未指定開源或開放內容授權。Logo、人物及圖卡的使用範圍須分別確認，詳見 [素材說明](assets/SOURCES.md)。已於 2026-11-13 公開並打 tag v0.1.0，未建立 GitHub Release。
 
 ## 作者
-AI Coach 益力康陳董 x CGM Coach 血糖教練
-2026 AI to Agent | 2027 AI to AGI Agent
+AI Coach 益力康陳董 x CGM Coach 血糖教練 | 2026 AI to Agent | 2027 AI to AGI Agent
